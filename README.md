@@ -1,1 +1,1 @@
-Esta es una tienda virtual para una panaderia
+Esta es una tienda virtual
