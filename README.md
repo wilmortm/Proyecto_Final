@@ -1,1 +1,1 @@
-Esta es una tienda virtual
+Esta es una tienda virtual con una modificacion al proyecto final
